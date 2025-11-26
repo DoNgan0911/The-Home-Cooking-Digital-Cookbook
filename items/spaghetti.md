@@ -1,16 +1,19 @@
-Title: Spaghetti 
-Creator: Kacie
-Date Created: 11/26/2003
-Description: A spaghetti with flavourful tomato sauce
-Ingredients: spaghetti noodles, a protein (like ground beef or Italian sausage), tomato sauce, and garlic, onion
-Instructions 
-  Cook the spaghetti in a large pot of lightly salted boiling water. Drain, reserving about 1/4 cup.
-  Sauté the minced garlic in the oil and melted butter under low heat.
-  Combine the drained spaghetti with the garlic oil.
-  Toss everything together well to coat the pasta.
-  Serve immediately 
-Format: Markdown (.md)
-Keywords: Italian cuisine, pasta
-Rights: © Kacie
-Identifier: spaghetti.md
+# Spaghetti
 
+## Metadata
+
+| **Field** | **Value** |
+|-----------|-----------|
+| **Title** | Spaghetti |
+| **Creator** | Kacie |
+| **Date Created** | 11/26/2025 |
+| **Description** | Spaghetti with tomato sauce. |
+| **Ingredients** | Spaghetti noodles, tomato sauce, garlic, onion, beef or sausage |
+| **Instructions** | Cook pasta; sauté garlic; add sauce; mix with pasta; serve |
+| **Format** | Markdown (.md) |
+| **Keywords** | Italian cuisine, pasta |
+| **Rights** | © Kacie |
+| **Identifier** | spaghetti.md |
+
+## Content  
+Spaghetti is a simple and comforting dish with tomato sauce and tender noodles.
