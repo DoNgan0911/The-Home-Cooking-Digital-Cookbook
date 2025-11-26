@@ -6,7 +6,7 @@
 |----------|-----------|
 | **Title** | Vermicelli Beef Soup |
 | **Creator** | Kacie |
-| **Date Created** | 11/26/2003 |
+| **Date Created** | 11/26/2025 |
 | **Description** | A famous Vietnamese noodle soup from central Vietnam with a spicy, flavorful broth. |
 | **Ingredients** | Beef bones, lemongrass, fermented shrimp paste, chili oil, vermicelli noodles. |
 | **Instructions** | Preparing the broth; making the spicy satay oil; cooking the noodles; assembling and serving. |
